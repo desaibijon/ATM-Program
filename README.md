@@ -39,8 +39,8 @@ HOW TO RUN:
 CONTACT INFO:
 -------------
 
-Name     :  Bijon Desai
-email    :  desaibijon@gmail.com
-Phone    :  214-566-4617
-LinkedIn :  https://www.linkedin.com/in/bijondesai
+- Name     :  Bijon Desai
+- email    :  desaibijon@gmail.com
+- Phone    :  214-566-4617
+- LinkedIn :  https://www.linkedin.com/in/bijondesai
 
