@@ -1,4 +1,4 @@
-#ATM Program(R) version 1.0 09/17/2016
+ATM Program(R) version 1.0 09/17/2016
 
 GENERAL USAGE NOTES:
 --------------------
@@ -29,10 +29,9 @@ CONTAINS:
 
 HOW TO RUN:
 -----------
-
-To Run the program, open the project in NetBeans 8.1 and run the program using F6
-To Test the program, Test it using Alt + F6
-To Check the code coverage, right click on project name in 'Projects' tab and click on Test with 
+- To Run the program, open the project in NetBeans 8.1 and run the program using F6
+- To Test the program, Test it using Alt + F6
+- To Check the code coverage, right click on project name in 'Projects' tab and click on Test with 
    JaCoCoverage.
  
 ---------------------------------------------------------------------------------------------------
@@ -40,8 +39,8 @@ To Check the code coverage, right click on project name in 'Projects' tab and cl
 CONTACT INFO:
 -------------
 
-Name	 : 	 Bijon Desai
-email	 : 	 desaibijon@gmail.com
-Phone	 : 	 214-566-4617
-LinkedIn : 	 https://www.linkedin.com/in/bijondesai
+Name     :  Bijon Desai
+email    :  desaibijon@gmail.com
+Phone    :  214-566-4617
+LinkedIn :  https://www.linkedin.com/in/bijondesai
 
