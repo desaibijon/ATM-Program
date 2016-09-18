@@ -4,7 +4,7 @@ GENERAL USAGE NOTES:
 --------------------
 
 ATM Program is a simple JAVA code which performs different tasks like 
-deposit and withdrawal based on user's selection from given options
+deposit and withdrawal based on user's selection from given options.
 
 ----------------------------------------------------------------------
 
