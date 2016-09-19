@@ -5,9 +5,6 @@
  */
 package atm;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 /**
@@ -35,9 +32,7 @@ public class ATM {
     public static boolean exit= false;                                          /* exit program when true */
     
     public static double getbalance(){          
-        
         return balance;                                                         /* return account balance */
-        
     }
     
     public static boolean candeposit(int deposit_frequency){                    /* check depsit frequency limit */
@@ -133,7 +128,6 @@ public class ATM {
                         System.out.println("");
                     } else {                                                    /* maximum frequncy for the day met */
                         System.out.println("ERROR: You have reached the maximum frequency of deposited per day.");
-                        break;
                     }                                                           /* end of if(deposidt_frequence < 4) */
                     break;
 
@@ -146,7 +140,6 @@ public class ATM {
                         System.out.println("");
                     } else {                                                    /* maximum frequncy met for the day */
                         System.out.println("ERROR: You have reach the maximum frequency of withdrawal per day.");
-                        break;
                     }                                                           /* end of if(withdrawal_frequency < 3) */
                     break;
 
@@ -182,7 +175,7 @@ public class ATM {
             Scanner scan = new Scanner(System.in);
             String c = scan.nextLine();
             
-            exit = userInput(c);
+            exit = userInput(c);                                                /* process user input */
         }                                                                       /* end of while(!exit) */
         System.exit(0);
         System.gc();
